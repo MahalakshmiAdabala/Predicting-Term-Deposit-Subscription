@@ -21,13 +21,13 @@ This is one of the important stages in any Data Science/Machine Learning pipelin
 
 Below are some of the factors which I think can highly affect the people who choose term deposits :
 
-Age: Mostly elder people doesn't take risk so they might prefer term deposits over any other.
+* Age: Mostly elder people doesn't take risk so they might prefer term deposits over any other.
 
-Income: Income of a person increases as he/she gains experience and thus, people with higher age tend to have higher income for the same occupation. Higher income people might interested in investing.
+* Income: Income of a person increases as he/she gains experience and thus, people with higher age tend to have higher income for the same occupation. Higher income people might interested in investing.
 
-Occupation: People working in 'Tech-support', 'Sales' & 'Exec-managerial' will surely have good salary and they might consider investing more than other people.
+* Occupation: People working in 'Tech-support', 'Sales' & 'Exec-managerial' will surely have good salary and they might consider investing more than other people.
 
-Marital Status: People who are married tend to invest more than unmarried people
+* Marital Status: People who are married tend to invest more than unmarried people
 
 ## Steps to follow
 It is a Binary Classification Problem
